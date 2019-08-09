@@ -6,11 +6,10 @@ All software is provided as is, without any guarantee.
 
 These are very specific task oriented programms that fit anywhere:
 
-
-
-
-
-
+*Remove_SCharacters.abap
 
 There are more complex programs with a wider variety of use or just more meaningfull impact in a companys work.
 
+*Contracts_Monitor.abap
+*Cl_tables2excel.abap
+*nfse_xml_uploader.abap
